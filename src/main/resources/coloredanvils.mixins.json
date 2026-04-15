@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.coloredanvils.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AnvilMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
